@@ -1,4 +1,6 @@
-![# RaggedLabs Media](RaggedLabs Media Torn-Paper Precision-3.png)
+![RaggedLabs Media — Software & Tools](https://raw.githubusercontent.com/Ragged-Labs/.github/main/profile/RaggedLabs%20Media%20Torn-Paper%20Precision-3.png)
+
+# RaggedLabs Media
 
 **Practical software and intelligent tools that simplify everyday digital tasks.**
 
