@@ -1,4 +1,4 @@
-# RaggedLabs Media
+![# RaggedLabs Media](RaggedLabs Media Torn-Paper Precision-3.png)
 
 **Practical software and intelligent tools that simplify everyday digital tasks.**
 
