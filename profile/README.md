@@ -18,6 +18,14 @@ Our name reflects our character: rough and ragged in style, with carefully engin
 
 **Namerr** is our media library organisation tool, currently in development. It focuses on making it easier to review collections, understand proposed changes and keep media files organised.
 
+## Computational bioscience research
+
+RaggedLabs Media is developing a computational bioscience research workstream alongside its software tools, including Namerr. The proposed focus is research software: traceable evidence datasets, reproducible analysis pipelines and tools for reviewing infection-prevention research.
+
+We will distinguish human clinical outcomes from laboratory findings, publish methods and limitations, and seek independent scientific review as the programme develops.
+
+This workstream does not currently offer medical products, clinical services or personalised treatment recommendations. Research software and datasets will be released when their scope, provenance and limitations are ready for review.
+
 ## Contact
 
 For product questions, feedback, collaboration or business enquiries:
